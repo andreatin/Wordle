@@ -1,10 +1,10 @@
-# Project 2 - *Wordle*
+# *Wordle*
 
-Submitted by: **Andrea Tinsley**
+Built by: **Andrea Tinsley**
 
 **Wordle** is an app that has a secret word with varying number of letters that the user must guess using a certain number of tries 
 
-Time spent: **3** hours spent in total
+Time spent: **5** hours spent in total
 
 ## Required Features
 
@@ -16,21 +16,10 @@ The following **required** functionality is completed:
 - [x] User can select "alien wordle", causing the goal word to change after each guess
 
 
-The following **optional** features are implemented:
-
-- [ ] App displays a reset button on the top left to reset the game (but make no changes to the settings)
-
-The following **additional** features are implemented:
-
-- [ ] List anything else that you can get done to improve the app functionality!
-
 ## Video Walkthrough
 
 [Wordel Part 2]](https://www.loom.com/share/d3ab9589a06342b8bb992acf628c3f49) .
 
-## Notes
-
-Biggest challenge was in step 2 when the casting had to be done between a String and the required String from the enum. There was some weird syntax with the hint of the project page on the codepath portal but using some trial and error, I was ablet to get it done. 
 
 ## License
 
